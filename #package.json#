@@ -1,0 +1,9 @@
+{
+  "name": "smoke",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/olleicua/smoke-machine.git",
+  "author": "antha",
+  "license": "MIT",
+  "private": false
+}
